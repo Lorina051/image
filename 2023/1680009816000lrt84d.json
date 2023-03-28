@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "ab30337707fb4234",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ffc56e341315c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267501bd754a3bde",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0472bd15e79bdb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023.03.27 周一.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e7e96e3e8265e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f6d64f00dbab96",
+        "type": "tabs",
+        "dimension": 69.82670744138635,
+        "children": [
+          {
+            "id": "13661861a623d579",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2ea347a36d02880",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "5e2c6445603933ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ac09813598ac2a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#important",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cdedd4e4cfc07013",
+        "type": "tabs",
+        "dimension": 30.17329255861366,
+        "children": [
+          {
+            "id": "439240cc8bba9872",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "093acab94efe9140",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de49e843beac40b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4481bb68f6aa302",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "f28dacbfe70b2cd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a4fadbe1c754476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0028e8fb7825d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e0abd19352a7f0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6927b64d1e9aa78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be63fe5bcbac7c47",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "homepage:Open homepage": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false,
+      "ledger-obsidian:Add to Ledger": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "remotely-save:Remotely Save": false,
+      "awesome-brain-manager:Awesome Brain Manager": false
+    }
+  },
+  "active": "267501bd754a3bde",
+  "lastOpenFiles": [
+    "Home.md",
+    "日记/2023.03.27 周一.md",
+    "Card box/进度条代码.md",
+    "账单.ledger",
+    "模板/周记模板.md",
+    "日记/2023.03.26 周日.md",
+    "Card box/Tasks使用.md",
+    "日记/2023.03.25 周六.md",
+    "日记/2023.03.21-周二.md",
+    "看板.md",
+    "模板/日记模板.md",
+    "Card box/记账代码（x）.md",
+    "模板/test.md",
+    "Card box/Dataview使用.md",
+    "附件/Pasted image 20230325171256.png",
+    "Card box/ob学习使用.md",
+    "Card box/图片并列与环绕.md",
+    "Card box/word review.md",
+    "Card box/word.md",
+    "Card box/callous使用.md",
+    "Excalidraw/Drawing 2023-03-26 周日.excalidraw.md",
+    "Card box/Home.md",
+    "模板/书籍卡片（示例，可修改）（包含dataview查询语法）.md",
+    "Card box/Templater使用.md",
+    "Card box/未命名 1.md",
+    "Card box/00_todolist.md",
+    "Card box/未命名看板.md",
+    "Card box/便签.md",
+    "Card box/Pasted image 20230325171256.png",
+    "Card box/未命名.canvas",
+    "Excalidraw",
+    "模板/每日记录.canvas",
+    "Projects - Demo Project",
+    "Day Planners",
+    "multi-column-markdown.exe",
+    "multi-column-markdown.exe.crdownload",
+    "20220423分栏test-维客笔记.md.crdownload",
+    "模板和杂物/杂物收集",
+    "附件/Pasted image 20230313154624.png",
+    "附件/Pasted image 20230222183826.png",
+    "附件/Pasted image 20230222183856.png",
+    "附件/Pasted image 20230222183920.png",
+    "附件/Pasted image 20230222183950.png",
+    "附件/Pasted image 20230222184002.png",
+    "附件/Pasted image 20230222184013.png",
+    "附件/Pasted image 20230222184146.png",
+    "附件",
+    "obsidian_orange-main/LICENSE",
+    "obsidian_orange-main/inbox/测试白板功能.canvas",
+    "obsidian_orange-main/obsidian_orange-main/inbox/测试白板功能.canvas",
+    "文化课/未命名.canvas"
+  ]
+}
